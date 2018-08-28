@@ -1,0 +1,11 @@
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\bin\Debug\netcoreapp2.1\CSharpGameTest.deps.json
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\bin\Debug\netcoreapp2.1\CSharpGameTest.runtimeconfig.json
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\bin\Debug\netcoreapp2.1\CSharpGameTest.runtimeconfig.dev.json
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\bin\Debug\netcoreapp2.1\CSharpGameTest.dll
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\bin\Debug\netcoreapp2.1\CSharpGameTest.pdb
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.csprojAssemblyReference.cache
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.csproj.CoreCompileInputs.cache
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.AssemblyInfoInputs.cache
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.AssemblyInfo.cs
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.dll
+C:\Users\Ken Bienek\Desktop\VSCode\CSharpGameTest\obj\Debug\netcoreapp2.1\CSharpGameTest.pdb
