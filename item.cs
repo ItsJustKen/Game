@@ -1,6 +1,6 @@
-namespace CSharpGameTest.Interfaces
+namespace Game.Interfaces
 {
-    public interface item
+    public struct item
     {
         int id {get; set;}
 

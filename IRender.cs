@@ -1,4 +1,4 @@
-namespace CSharpGameTest.Interfaces
+namespace Game.Interfaces
 {
     public interface IRender
     {

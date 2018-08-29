@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
-using CSharpGameTest.Interfaces;
-using CSharpGameTest.Implementations;
+using Game.Interfaces;
+using Game.Implementations;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CSharpGameTest
+namespace Game
 {
     
     class Program
@@ -14,12 +14,7 @@ namespace CSharpGameTest
         
         static void Main(string[] args)
         {
-            IGameObject test = new Player();
-            List<IGameObject> test2 = new List<IGameObject>();
-            IRender Renderer = new ConsoleRender();
-            Thread test3 = new Thread(Renderer.Render);
-            test3.Name = "Render";
-            test3.Start();
+            Game.Start();
             
         }
     }

@@ -1,9 +1,9 @@
 using System;
-using CSharpGameTest.Interfaces;
+using Game.Interfaces;
 
-namespace CSharpGameTest.Implementations
+namespace Game.Implementations
 {
-    public class Player : IGameObject, IMoveableObject, IPlayableObject
+    public class Player : IGameObject, IMoveableObject//, IPlayableObject
     {
         public float health {get; set;}
 

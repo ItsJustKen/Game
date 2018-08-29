@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken Bienek\\Desktop\\VSCode\\CSharpGameTest\\CSharpGameTest.csproj",
-      "projectName": "CSharpGameTest",
-      "projectPath": "C:\\Users\\Ken Bienek\\Desktop\\VSCode\\CSharpGameTest\\CSharpGameTest.csproj",
+      "projectUniqueName": "C:\\Users\\Ken Bienek\\Documents\\GitHub\\Game\\Game.csproj",
+      "projectName": "Game",
+      "projectPath": "C:\\Users\\Ken Bienek\\Documents\\GitHub\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\Ken Bienek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken Bienek\\Desktop\\VSCode\\CSharpGameTest\\obj\\",
+      "outputPath": "C:\\Users\\Ken Bienek\\Documents\\GitHub\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

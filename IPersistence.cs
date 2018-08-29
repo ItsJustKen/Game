@@ -1,4 +1,4 @@
-namespace CSharpGameTest
+namespace Game
 {
     public interface IPersistence
     {

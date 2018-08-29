@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "CSharpGameTest/1.0.0": {
+      "Game/1.0.0": {
         "runtime": {
-          "CSharpGameTest.dll": {}
+          "Game.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharpGameTest/1.0.0": {
+    "Game/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
